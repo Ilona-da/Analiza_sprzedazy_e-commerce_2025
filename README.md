@@ -8,15 +8,15 @@ Podgląd każdej ze stron raportu:
 
 | Page 1 | Page 2 |
 |--------|--------|
-| ![Intro](powerbi/preview/report-1.png) | ![Esencja](powerbi/preview/report-2.png) |
+| ![Intro](powerbi/preview/report_1.png) | ![Esencja](powerbi/preview/report_2.png) |
 
 | Page 3 | Page 4 |
 |--------|--------|
-| ![Oś czasu](powerbi/preview/report-3.png) | ![Produkty](powerbi/preview/report-4.png) |
+| ![Oś czasu](powerbi/preview/report_3.png) | ![Produkty](powerbi/preview/report_4.png) |
 
 | Page 5 | Page 6 |
 |--------|--------|
-| ![Klienci](powerbi/preview/report-5.png) | ![Logistyka](powerbi/preview/report-6.png) |
+| ![Klienci](powerbi/preview/report_5.png) | ![Logistyka](powerbi/preview/report_6.png) |
 
 
 ## 1. Podsumowanie wykonawcze

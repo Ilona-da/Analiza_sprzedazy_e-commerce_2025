@@ -6,15 +6,15 @@ Analiza obejmuje sprzedaż w sklepie odzieżowym online od stycznia 2024 do sier
 
 Podgląd każdej ze stron raportu:
 
-| Page 1 | Page 2 |
+| Intro | Esencja |
 |--------|--------|
 | ![Intro](powerbi/preview/report_1.png) | ![Esencja](powerbi/preview/report_2.png) |
 
-| Page 3 | Page 4 |
+| Oś czasu | Produkty |
 |--------|--------|
 | ![Oś czasu](powerbi/preview/report_3.png) | ![Produkty](powerbi/preview/report_4.png) |
 
-| Page 5 | Page 6 |
+| Klienci | Logistyka |
 |--------|--------|
 | ![Klienci](powerbi/preview/report_5.png) | ![Logistyka](powerbi/preview/report_6.png) |
 

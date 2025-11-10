@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi)
+
 # Analiza wyników sprzedaży e-commerce (2024-2025)
 
 Analiza obejmuje sprzedaż w sklepie odzieżowym online od stycznia 2024 do sierpnia 2025, z głównym naciskiem na wyniki z 2025 roku. Oparta na ponad 186 tys. rekordów transakcyjnych, koncentruje się na dynamice sprzedaży, sezonowości, zachowaniach klientów oraz czynnikach wpływających na realizację i anulacje zamówień. Ma charakter diagnostyczny i strategiczny, wskazując obszary możliwych usprawnień - od procesów operacyjnych i UX, po zarządzanie kategoriami i logistykę dostaw.
